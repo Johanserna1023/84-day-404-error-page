@@ -67,7 +67,7 @@ Diseño adaptado para cualquier tipo de pantalla del dispositivo:
 
 ### El proyecto se encuentra alojado en mi repositorio de GitHub:
 
-- [Pagina web](https://johanserna1023.github.io/84-day-404-error-page/)
+- [Pagina web]( https://johanserna1023.github.io/84-day-404-error-page/)
 - [Codigo fuente]()
 
 ## Proceso de trabajo
