@@ -141,7 +141,7 @@ Hemos recopilado una lista de recursos e información valiosa que puede ayudarte
 
 ## Autor del reto
 
-JOhan Serna Vargas, Full Stack Developer.
+Johan Serna Vargas, Full Stack Developer.
 
 
 
